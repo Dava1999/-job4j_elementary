@@ -6,10 +6,10 @@ class Calculator {
         int two = 2;
         int sixDivTwo = six / two;
         System.out.println(sixDivTwo);
-        int five= 5;
+        int five = 5;
         int  fiveMinusTwo = five - two;
-        System.out.println( fiveMinusTwo);
-        int four= 4;
+        System.out.println(fiveMinusTwo);
+        int four = 4;
         int  fourTimeTwo = four * two;
         System.out.println(fourTimeTwo);
     }
