@@ -1,4 +1,5 @@
 package ru.job4j.calculator;
+
 class Calculator {
 
     public static void main(String[] args) {
